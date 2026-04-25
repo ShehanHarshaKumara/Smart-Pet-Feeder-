@@ -1,5 +1,3 @@
-# 🐾 Smart Pet Feeder IoT Project
-
 <p align="center">
  <img width="1402" height="1122" alt="86664c9e-7ad2-493d-9a80-0c2e47510d42" src="https://github.com/user-attachments/assets/b8c8aeac-fbd4-44b7-aad4-c21e79b7fb62" />
 <img width="1024" height="634" alt="A87oq5KAhRABmS-DAQKcGvj1Sp6QC66bcrlIajIDUG8yfIbcSxAqakHUB7m6W95KQ1S1h7W06pyoTSgxSFx8sri-zcsMfPp9N4vJ0mLwB8FKlW9J1yW9PrO4TKEjAy3J651DDsjDVjY0gBd4GqIgCnIVLptYZztzFKogQEUnPGZLdZX-IJ2m3y22pEpnZmve" src="https://github.com/user-attachments/assets/9f77b7b3-bad7-4ea7-bb90-d88142f23fc8" />
@@ -16,6 +14,7 @@
 
 
 </p>
+# 🐾 Smart Pet Feeder IoT Project
 
 ## 📌 Project Overview
 
